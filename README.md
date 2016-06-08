@@ -1,7 +1,8 @@
 # Docker Volumes for Repos -- git/hg
 
-Discrition: 
-  for usage as a method to add git repos into docker volumes
+Discription: 
+  this container/tool is intended as a method to add git/hg repos into docker volumes
+  so they can be added or used by different containers
 
 
 ```
