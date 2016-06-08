@@ -1,4 +1,4 @@
-# Docker Git 
+# Docker Volumes for Repos -- git/hg
 
 Discrition: 
   for usage as a method to add git repos into docker volumes
